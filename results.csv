@@ -1,0 +1,6 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99.9%)","Unit","Param: inputPath"
+"benchmark.Harness.lexSource","avgt",1,30,4.473122,0.112006,"us/op",sample.java
+"benchmark.Harness.lexSource:gc.alloc.rate","avgt",1,30,1275.709754,30.834459,"MB/sec",sample.java
+"benchmark.Harness.lexSource:gc.alloc.rate.norm","avgt",1,30,5976.003096,0.000082,"B/op",sample.java
+"benchmark.Harness.lexSource:gc.count","avgt",1,30,1421.000000,NaN,"counts",sample.java
+"benchmark.Harness.lexSource:gc.time","avgt",1,30,1344.000000,NaN,"ms",sample.java
